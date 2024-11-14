@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029407529135",
+    "project_id": "fir-luisjo",
+    "storage_bucket": "fir-luisjo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029407529135:android:53b4395c00deaba712dc5a",
+        "android_client_info": {
+          "package_name": "us.mastersalud.firebaseluisjo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgm25e2xO4GjbK--wkjNhydhXfIi4iaS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
